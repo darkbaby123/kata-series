@@ -2,6 +2,10 @@
 
 A list of katas I've completed
 
+**3 kyu**
+
+- [Rail Fence Cipher](https://github.com/darkbaby123/kata-rail-fence-cipher-js), JavaScript
+
 **4 kyu**
 
 - [Find all number combos that snum to a number](https://github.com/darkbaby123/kata-number-combos-sum-js), JavaScript
