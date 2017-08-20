@@ -4,6 +4,7 @@ A list of katas I've completed
 
 **3 kyu**
 
+- [GPS Navigation](https://github.com/darkbaby123/kata-gps-navigation), JavaScript
 - [Rail Fence Cipher](https://github.com/darkbaby123/kata-rail-fence-cipher-js), JavaScript
 
 **4 kyu**
