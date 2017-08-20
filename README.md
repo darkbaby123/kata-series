@@ -9,6 +9,7 @@ A list of katas I've completed
 
 **4 kyu**
 
+- [Determing if a graph has a solution](https://github.com/darkbaby123/kata-graph-solution)
 - [Find all number combos that snum to a number](https://github.com/darkbaby123/kata-number-combos-sum-js), JavaScript
 - [Longest Common Subsequence](https://github.com/darkbaby123/kata-longest-common-subsequence), JavaScript
 - [Next bigger number with the same digits](https://github.com/darkbaby123/kata-next-bigger-number), JavaScript
